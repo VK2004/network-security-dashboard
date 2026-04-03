@@ -2,7 +2,7 @@
 
 A responsive, single-page **Network Security Operations Center (SOC) Dashboard** built with HTML, CSS, and Chart.js. Designed for real-time network monitoring and threat visualization.
 
-🔗 **Live Demo:** [View Dashboard](https://YOUR-USERNAME.github.io/network-security-dashboard/)
+🔗 **Live Demo:** [View Dashboard]((https://vk2004.github.io/network-security-dashboard/))
 
 ---
 
